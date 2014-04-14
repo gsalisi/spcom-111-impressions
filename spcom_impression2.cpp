@@ -7,7 +7,6 @@
   int their first impression exercise.
  
   Author:  Geoffrey Salisi
-  Copyright (c) 2014 by Geoffrey Salisi.  All rights reserved.
  
 -----------------------------------------------------------------------*/
 
