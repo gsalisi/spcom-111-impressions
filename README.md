@@ -11,6 +11,7 @@ Directions
 On the same directory that it is compiled:
 
 1) Create a list of all the students in the same order of the impression list.
+
 2) Create a folder for the section.
 
 3) Follow directions as prompted in the program.
